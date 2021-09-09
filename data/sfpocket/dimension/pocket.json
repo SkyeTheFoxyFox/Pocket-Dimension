@@ -14,7 +14,7 @@
 		"logical_height": 18,
 		"infiniburn": "minecraft:infiniburn_overworld",
 		"min_y": 0,
-		"height": 18
+		"height": 256
 	},
 	"generator": {
 		"type": "minecraft:flat",
