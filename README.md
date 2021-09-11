@@ -7,6 +7,8 @@ Currently you can get the items with this command:
   
 The one at the end is it's id, change that to change which room it takes you to.
 
+Thanks to u/Hayey_ for the resource pack!!! :3 
+
 Warnings:
 
 The pocket dimensions need to be made sequentially or it will break.
