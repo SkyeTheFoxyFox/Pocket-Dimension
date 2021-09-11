@@ -11,8 +11,6 @@ Thanks to u/Hayey_ for the resource pack!!! :3
 
 Warnings:
 
-The pocket dimensions need to be made sequentially or it will break.
-
-If you die while in a pocket dimension it breaks.
-
-If you die in a pocket dimension, or leave your carrot on a stick in the dimension, you won't be able to access it again without giving it to yourself again.
+* The pocket dimensions need to be made sequentially or it will break.
+* If you die while in a pocket dimension it breaks.
+* If you die in a pocket dimension, or leave your carrot on a stick in the dimension, you won't be able to access it again without giving it to yourself again.
