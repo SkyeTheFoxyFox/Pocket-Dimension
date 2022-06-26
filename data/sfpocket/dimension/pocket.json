@@ -1,29 +1,14 @@
 {
-	"type": {
-		"name": "minecraft:overworld",
-		"ultrawarm": false,
-		"natural": false,
-		"piglin_safe": false,
-		"respawn_anchor_works": false,
-		"bed_works": true,
-		"has_raids": false,
-		"has_skylight": true,
-		"has_ceiling": false,
-		"coordinate_scale": 1,
-		"ambient_light": 0,
-		"logical_height": 18,
-		"infiniburn": "#minecraft:infiniburn_overworld",
-		"min_y": 0,
-		"height": 256
-	},
+	"type": "sfpocket:pocket_type",
 	"generator": {
-		"type": "minecraft:flat",
-		"settings": {
-			"biome": "sfpocket:pocket_biome",
-			"layers": [],
-			"structures": {
-				"structures": {}
-			}
-		}
+	  "type": "minecraft:flat",
+	  "settings": {
+		"biome": "sfpocket:pocket_biome",
+		"lakes": false,
+		"features": false,
+		"layers": [],
+		"structure_overrides": []
+	  }
 	}
-}
+  }
+  
