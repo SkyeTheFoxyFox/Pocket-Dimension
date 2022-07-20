@@ -1,4 +1,5 @@
 scoreboard players set @a SF_pocket_yn 0
+execute as @a[nbt={recipeBook:{recipes:["sfpocket:pocket"]}}] at @s run function sfpocket:recipe
 execute as @a at @s in sfpocket:pocket if entity @p[distance=..1] run tag @s add SF_pocket_in
 execute as @a at @s in sfpocket:pocket unless entity @p[distance=..1] run tag @s add SF_pocket_out
 execute as @a[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{CustomModelData:136}}},tag=SF_pocket_out] if score @s SF_pocket_use matches 1.. store result score @s SF_pocket_id run data get entity @s SelectedItem.tag.SFpocketid
