@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "ETE",
+        "#E#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:shulker_box"
+        },
+        "E": {
+            "item": "minecraft:echo_shard"
+        },
+        "T": {
+            "item": "minecraft:enchanted_golden_apple"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
